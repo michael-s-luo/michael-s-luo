@@ -9,7 +9,7 @@ I'm a detail-oriented healthcare and pharmacy professional with a strong backgro
 - 💊 Healthcare & Pharmacy
 - 🏞️ Hiking & Exploring National Parks
 - 🥤 Boba & Hotpot
-- 🎮 Triple-A Video Games
+- 🎮 Triple-A Video Games and constantly replaying The Elder Scrolls V: Skyrim
 
 ## 2023 Goals 🎯
 1. Apply data science skills to real-world challenges
@@ -17,6 +17,6 @@ I'm a detail-oriented healthcare and pharmacy professional with a strong backgro
 3. Pursue professional growth & lifelong learning
 
 ## Let's Connect! 🔗
-Feel free to connect with me and let's chat about data, healthcare, hiking trails, or your top 5 boba spots! My door is always open for a conversation.
+Feel free to connect with me and let's chat about data, healthcare, hiking trails, or your top boba spots! My door is always open for a conversation.
 
 ![michael-s-luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-s-luo&show_icons=true&theme=radical)
