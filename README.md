@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋 I'm a PharmD Graduate, Data Analyst, and Data Science Enthusiast
 
-<!--
-**michael-s-luo/michael-s-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a detail-oriented healthcare and pharmacy professional with a strong background in healthcare data, infectious diseases, and pharmacokinetics. I recently graduated from a data science bootcamp, where I developed skills in data analysis, predictive modeling, and machine learning.
 
-Here are some ideas to get you started:
+🔍 Currently seeking entry-level positions and internships in data analysis and data science across various industries!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests 😄
+- 📊 Data Science & Machine Learning
+- 💊 Healthcare & Pharmacy
+- 🏞️ Hiking & Exploring National Parks
+- 🥤 Boba & Hotpot
+- 🎮 Triple-A Video Games
+
+## 2023 Goals 🎯
+1. Apply data science skills to real-world challenges
+2. Collaborate with diverse professionals on data-driven solutions
+3. Pursue professional growth & lifelong learning
+
+## Let's Connect! 🔗
+Feel free to connect with me and let's chat about data, healthcare, hiking trails, or your top 5 boba spots! My door is always open for a conversation.
+
+![michael-s-luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-s-luo&show_icons=true&theme=radical)
