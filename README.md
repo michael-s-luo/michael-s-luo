@@ -2,7 +2,8 @@
 
 I'm a detail-oriented healthcare and pharmacy professional with a strong background in healthcare data, infectious diseases, and pharmacokinetics. I recently graduated from a data science bootcamp, where I developed skills in data analysis, predictive modeling, and machine learning.
 
-🔍 Currently seeking entry-level positions and internships in data analysis and data science across various industries!
+🔍 Currently seeking & open to discussing Data Science & Machine Learning positions or paid internships across various industries! 
+📲 Looking forward to connecting!
 
 ## My Interests 😄
 - 📊 Data Science & Machine Learning
